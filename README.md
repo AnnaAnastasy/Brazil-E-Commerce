@@ -57,7 +57,7 @@ Developed a review-based sentiment profile for key product categories.
 ```bash
   pip install -r requirements.txt
 ```
-- Run the Notebook: Open and execute brazilian-e-commerce-eda-nlp-ml.ipynb in a Jupyter Notebook environment.
+- Run the Notebook: Open and execute `brazilian-e-commerce-eda-nlp-ml.ipynb` in a Jupyter Notebook environment.
 
 ## Conclusions
 This project provides actionable insights into Brazilian e-commerce, revealing key trends in customer purchasing behavior, high-demand product categories, and peak sales periods. Sentiment analysis of customer reviews further highlighted areas for customer satisfaction improvements, such as delivery and product quality. Together, these insights can help e-commerce businesses optimize inventory, refine marketing strategies, and enhance the overall customer experience.
