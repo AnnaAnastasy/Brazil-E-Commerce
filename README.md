@@ -49,9 +49,18 @@ Predictive modeling is applied to understand and forecast key factors within the
 Determined the impact of certain product attributes on customer satisfaction.
 Developed a review-based sentiment profile for key product categories.
 
+## Dataset Download Instructions
+To run this project, you’ll need to download the credit card fraud detection dataset:
+
+- Download the dataset from [Kaggle’s Brazilian E-Commerce Dataset page](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+- Save the downloaded `csv` files in the same directory as the Jupyter Notebook (`brazilian-e-commerce-eda-nlp-ml.ipynb`).
+ 
 ## How to Use This Project
 
 - Clone the repository.
+```bash
+  git clone https://github.com/AnnaAnastasy/Brazil-E-Commerce.git
+```
 - Ensure Python 3.7+.
 - Install required libraries listed in `requirements.txt`.
 ```bash
