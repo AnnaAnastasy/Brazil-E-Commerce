@@ -1,0 +1,20 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# NLP and Text Processing
+nltk
+wordcloud
+collections
+leia-br  # LeIA library for sentiment analysis
+
+# Machine Learning Libraries
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Visualization Enhancements
+matplotlib-inline  # Needed if running in Jupyter to ensure %matplotlib inline works correctly
